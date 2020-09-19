@@ -8,4 +8,4 @@ ionic cap open android
 adb devices your phone
 
 ## Production
-[Ionic React](https://my-react-app-f7ecf.web.ap)
+[Ionic React](https://my-react-app-f7ecf.web.app)
